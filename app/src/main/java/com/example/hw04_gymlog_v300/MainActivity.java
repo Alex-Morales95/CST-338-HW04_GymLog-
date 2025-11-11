@@ -22,6 +22,9 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 import androidx.lifecycle.LiveData;
 
+import com.example.hw04_gymlog_v300.database.GymLogRepository;
+import com.example.hw04_gymlog_v300.database.entities.GymLog;
+import com.example.hw04_gymlog_v300.database.entities.User;
 import com.example.hw04_gymlog_v300.databinding.ActivityMainBinding;
 
 import java.util.ArrayList;
